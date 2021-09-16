@@ -6,7 +6,7 @@ Java Application
 <center>
 <h1>Sample Java Web Application</h1>
   <br>
-  <h2>New Featuresss Added by Bhawik</h2>
+  <h2>New Featuresss Added by Vaishali</h2>
   </br>
 </center>
 </body>
